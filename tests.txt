@@ -1,0 +1,27 @@
+help
+create
+append 5
+append 6
+append 7
+append 10
+print
+moveto 0
+print
+prev
+cursorpos
+moveto 3
+print
+next
+print
+moveto 4
+print 0
+next
+print
+next
+print
+clear
+print
+create
+print
+destroy
+print
